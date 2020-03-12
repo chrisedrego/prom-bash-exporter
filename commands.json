@@ -1,0 +1,9 @@
+{
+    "pre_command": [
+                    "/home/ec2-user/confluent", 
+                    "pwd"
+                    ],
+    "command1":     [   
+                    "command"
+                    ]
+}
